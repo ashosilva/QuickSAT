@@ -1,0 +1,232 @@
+[
+    {
+        "id": "1",
+        "figure": "what word is defined by the following",
+        "question": "to make ashamed",
+        "choices": [
+            {
+                "value": "abash",
+                "truth": "true"
+            },
+            {
+                "value": "abduct",
+                "truth": "false"
+            },
+            {
+                "value": "abet",
+                "truth": "false"
+            },
+            {
+                "value": "jubilant",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "figure": "what word is defined by the following",
+        "question": "to put an end to",
+        "choices": [
+            {
+                "value": "abate",
+                "truth": "true"
+            },
+            {
+                "value": "judicial",
+                "truth": "false"
+            },
+            {
+                "value": "menace",
+                "truth": "false"
+            },
+            {
+                "value": "memento",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "figure": "what word is defined by the following",
+        "question": "a female superior or governess of a nunnery",
+        "choices": [
+            {
+                "value": "abbess",
+                "truth": "true"
+            },
+            {
+                "value": "ministry",
+                "truth": "false"
+            },
+            {
+                "value": "nebula",
+                "truth": "false"
+            },
+            {
+                "value": "operetta",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "figure": "what word is defined by the following",
+        "question": "a monastery or society of people",
+        "choices": [
+            {
+                "value": "abbey",
+                "truth": "true"
+            },
+            {
+                "value": "opprobrium",
+                "truth": "false"
+            },
+            {
+                "value": "ostensible",
+                "truth": "false"
+            },
+            {
+                "value": "paludal",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "figure": "what word is defined by the following",
+        "question": "study of life in prehistoric times, represented by fossils",
+        "choices": [
+            {
+                "value": "paleontology",
+                "truth": "true"
+            },
+            {
+                "value": "palpitate",
+                "truth": "false"
+            },
+            {
+                "value": "pamphleteer",
+                "truth": "false"
+            },
+            {
+                "value": "pander",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "figure": "what word is defined by the following",
+        "question": "of or relating to an oracle",
+        "choices": [
+            {
+                "value": "oracular",
+                "truth": "true"
+            },
+            {
+                "value": "opus",
+                "truth": "false"
+            },
+            {
+                "value": "opulence",
+                "truth": "false"
+            },
+            {
+                "value": "opulent",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "figure": "what word is defined by the following",
+        "question": "to impair the quality of",
+        "choices": [
+            {
+                "value": "vitiate",
+                "truth": "true"
+            },
+            {
+                "value": "vitriolic",
+                "truth": "false"
+            },
+            {
+                "value": "vituperable",
+                "truth": "false"
+            },
+            {
+                "value": "vituperate",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "figure": "what word is defined by the following",
+        "question": "to decrease in strength, intensity, etc",
+        "choices": [
+            {
+                "value": "wane",
+                "truth": "true"
+            },
+            {
+                "value": "wampum",
+                "truth": "false"
+            },
+            {
+                "value": "wallow",
+                "truth": "false"
+            },
+            {
+                "value": "waive",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "figure": "what word is defined by the following",
+        "question": "a trend of thought characteristic of a particular time",
+        "choices": [
+            {
+                "value": "zeitgeist",
+                "truth": "true"
+            },
+            {
+                "value": "zenith",
+                "truth": "false"
+            },
+            {
+                "value": "zephyr",
+                "truth": "false"
+            },
+            {
+                "value": "zodiacal",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "figure": "what word is defined by the following",
+        "question": "of, pertaining to, or characterized by sudden or rash action",
+        "choices": [
+            {
+                "value": "impetuous",
+                "truth": "true"
+            },
+            {
+                "value": "impetus",
+                "truth": "false"
+            },
+            {
+                "value": "impiety",
+                "truth": "false"
+            },
+            {
+                "value": "impious",
+                "truth": "false"
+            }
+        ]
+    }
+]

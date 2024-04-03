@@ -1,0 +1,232 @@
+[
+    {
+        "id": "1",
+        "figure": "h(x)=-4(x-1)+2",
+        "question": "The function h is defined above. for what value of x is h(x)=-2?",
+        "choices": [
+            {
+                "value": "2",
+                "truth": "true"
+            },
+            {
+                "value": "-2",
+                "truth": "false"
+            },
+            {
+                "value": "-1",
+                "truth": "false"
+            },
+            {
+                "value": "1",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "figure": "",
+        "question": "A geographer found that the land area of Aruba is 75 square miles and the land area of Bermuda is 19 square miles. Based on these data, the geographer used the equation 75x+19y = T to estimate the total number of residents, T, of the two islands. Which is the best interpretation of x in this context?",
+        "choices": [
+            {
+                "value": "The population density, in residents per square mile, of Aruba.",
+                "truth": "true"
+            },
+            {
+                "value": "The total number of residents of Aruba",
+                "truth": "false"
+            },
+            {
+                "value": " The number of square miles of Aruba",
+                "truth": "false"
+            },
+            {
+                "value": "The total number of residents of both islands",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "figure": "|2x-4|=8",
+        "question": "What is the positive solution to the given equation",
+        "choices": [
+            {
+                "value": "6",
+                "truth": "true"
+            },
+            {
+                "value": "8",
+                "truth": "false"
+            },
+            {
+                "value": "4",
+                "truth": "false"
+            },
+            {
+                "value": "2",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "figure": "",
+        "question": "which of the following is an equation of the line in the xy-plane that contains the points (1,3) and (5,15)?",
+        "choices": [
+            {
+                "value": "y=3x",
+                "truth": "true"
+            },
+            {
+                "value": "y=2x+5",
+                "truth": "false"
+            },
+            {
+                "value": "y=x+2",
+                "truth": "false"
+            },
+            {
+                "value": "y=(1/3)x",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "figure": "",
+        "question": "what is the y-intercept of the graph y=4^x in the xy-plane",
+        "choices": [
+            {
+                "value": "(0,1)",
+                "truth": "true"
+            },
+            {
+                "value": "(1,4)",
+                "truth": "false"
+            },
+            {
+                "value": "(1,0)",
+                "truth": "false"
+            },
+            {
+                "value": "(4,1)",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "figure": "(x^2)-14x+40=2x+1",
+        "question": "what is the sum of the solutions to the given equation",
+        "choices": [
+            {
+                "value": "16",
+                "truth": "true"
+            },
+            {
+                "value": "-14",
+                "truth": "false"
+            },
+            {
+                "value": "-16",
+                "truth": "false"
+            },
+            {
+                "value": "14",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "figure": "",
+        "question": "if s=4, what is the value of 20s-15s?",
+        "choices": [
+            {
+                "value": "20",
+                "truth": "true"
+            },
+            {
+                "value": "4",
+                "truth": "false"
+            },
+            {
+                "value": "5",
+                "truth": "false"
+            },
+            {
+                "value": "15",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "figure": "",
+        "question": "a field has a perimeter of 960 feet. of the following which is the closest to the perimeter of the field in meters? ( 1 foot = 0.3048 meter)",
+        "choices": [
+            {
+                "value": "290",
+                "truth": "true"
+            },
+            {
+                "value": "89",
+                "truth": "false"
+            },
+            {
+                "value": "3,200",
+                "truth": "false"
+            },
+            {
+                "value": "10,000",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "figure": "",
+        "question": "what is 120% of 2,000?",
+        "choices": [
+            {
+                "value": "2,400",
+                "truth": "true"
+            },
+            {
+                "value": "240",
+                "truth": "false"
+            },
+            {
+                "value": "400",
+                "truth": "false"
+            },
+            {
+                "value": "4,000",
+                "truth": "false"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "figure": "",
+        "question": "in 1855, Louis Remme traveled from Sacramento, California to Portlan, Oregon, stopping to rest for only 10 hours of the 143 hours it took him to reach Portland. if his average speed whjile traveling without reasting was 5 miles per hour, how many miles did Louis Remme travel?",
+        "choices": [
+            {
+                "value": "665",
+                "truth": "true"
+            },
+            {
+                "value": "705",
+                "truth": "false"
+            },
+            {
+                "value": "715",
+                "truth": "false"
+            },
+            {
+                "value": "765",
+                "truth": "false"
+            }
+        ]
+    }
+]
